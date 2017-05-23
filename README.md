@@ -3,9 +3,9 @@ General RecyclerView reference material.
 
 ### Features
 
-| Description | Source |
-| --- | --- |
-| List item View.OnClickListener within the hosting Activity | [stackoverflow](https://stackoverflow.com/a/35970678/5145424) |
+| Description | Source | Commit |
+| --- | --- | --- |
+| List item View.OnClickListener within the hosting Activity | [stackoverflow](https://stackoverflow.com/a/35970678/5145424) | 6714711495ebe17efee819ab6bbb9b5c63b822d4 |
 
 ### Screenshots
 
